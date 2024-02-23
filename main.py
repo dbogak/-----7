@@ -1,7 +1,6 @@
 import datetime
 
-date_time = datetime.datetime(2021, 9, 27,
-hour=12, minute=36, second=24, microsecond=585)
+date_time = datetime.datetime(2021, 9, 27, hour=12, minute=36, second=24, microsecond=585)
 print(f"object datetime – {date_time}")
 print(f"type – {type(date_time)}")
 
